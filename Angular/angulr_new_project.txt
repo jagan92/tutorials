@@ -1,0 +1,16 @@
+Step 1: 
+	Download and install NPM(Node)
+
+Step 2: 
+	Install Angular CLI "npm install -g @angular/cli"
+	
+Step 3:
+	Open Terminal and move to your folder
+	Create New project "ng new my-app"
+	
+Step 4:
+	In terminal move to created project folder and run command "ng serve"
+
+Step 5:
+	Open browser and run "localhost:4200"
+	Default port 4200
